@@ -11,3 +11,10 @@ var car = {
   year: 2010,
   workDone: ["changed oil", "new shift sensor", "new timing belt"]
 }
+
+var customer = {
+  name: "Mr. Serious",
+  previousCustomer: true,
+  amountPaid: 0,
+  amountOwed: 100
+}
